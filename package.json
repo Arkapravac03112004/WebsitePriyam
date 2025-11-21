@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0",
+  "description": "NaN",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISCMMPA44",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^99.1.12",
+    "tailwindcss": "^99.1.12"
+  }
+}
